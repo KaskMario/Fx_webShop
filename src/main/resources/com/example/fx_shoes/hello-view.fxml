@@ -38,6 +38,7 @@
       <Label fx:id="nameLbl" layoutX="49.0" layoutY="38.0" />
       <ProgressIndicator fx:id="progIndi" layoutX="225.0" layoutY="55.0" minHeight="150.0" minWidth="150.0" visible="false" />
    </children>
+
    <cursor>
       <Cursor fx:constant="HAND" />
    </cursor>
